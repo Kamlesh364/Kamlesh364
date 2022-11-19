@@ -1,23 +1,23 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Kamlesh</h1>
+<h1 align="center">Hi 👋, I'm Kamlesh</h1>
 <h3 align="center">A passionate AI enthusiast, inventor of two Indian patents and author of several research publications from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh364&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh364" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamlesh364" alt="kamlesh364" /></a> </p>
 
-- ðŸ”­ Iâ€™m currently working on **Medical Image Segmentation, Natural Language Processing, Signal and Image Processing, Computer Vision, and Real-time Video analysis.**
+- 🔭 I’m currently working on **Medical Image Segmentation, Natural Language Processing, Signal and Image Processing, Computer Vision, and Real-time Video analysis.**
 
-- ðŸŒ± Iâ€™m currently learning **ReactJS, and ReactNative**
+- 🌱 I’m currently learning **ReactJS, and ReactNative**
 
-- ðŸ‘¯ Iâ€™m looking to collaborate on **Real-time Video and Signal Processing, Machine and Deep Learning, Data Science, Medical Image Processing, and Industrial Automation.**
+- 👯 I’m looking to collaborate on **Real-time Video and Signal Processing, Machine and Deep Learning, Data Science, Medical Image Processing, and Industrial Automation.**
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [https://github.com/kamlesh364](https://github.com/kamlesh364)
+- 👨‍💻 All of my projects are available at [https://github.com/kamlesh364](https://github.com/kamlesh364)
 
-- ðŸ’¬ Ask me about **Python, TensorFlow2, Keras, PyTorch, HTML/CSS/JS, AWS, Azure**
+- 💬 Ask me about **Python, TensorFlow2, Keras, PyTorch, HTML/CSS/JS, AWS, Azure**
 
-- ðŸ“« How to reach me **kamlesh.kumar.19e@iitram.ac.in**
+- 📫 How to reach me **kamlesh.kumar.19e@iitram.ac.in**
 
-- ðŸ“„ Know about my experiences [https://www.dropbox.com/s/t0tqp0chasyg2cf/Kamlesh.Kumar.pdf?dl=0](https://www.dropbox.com/s/t0tqp0chasyg2cf/Kamlesh.Kumar.pdf?dl=0)
+- 📄 Know about my experiences [https://www.dropbox.com/s/t0tqp0chasyg2cf/Kamlesh.Kumar.pdf?dl=0](https://www.dropbox.com/s/t0tqp0chasyg2cf/Kamlesh.Kumar.pdf?dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamlesh364&show_icons=true&locale=en" alt="kamlesh364" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh364&" alt="kamlesh364" /></p>
+
