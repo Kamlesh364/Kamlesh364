@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, TensorFlow2, Keras, PyTorch, HTML/CSS/JS, AWS, Azure**
 
-- 📫 How to reach me **kamlesh.kumar.19e@iitram.ac.in**
+- 📫 Reach me at **kamlesh.kumar.19e@iitram.ac.in**
 
 - 📄 Know about my experiences [Resume](https://www.dropbox.com/s/t0tqp0chasyg2cf/Kamlesh.Kumar.pdf?dl=0)
 
