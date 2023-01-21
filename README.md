@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **kamlesh.kumar.19e@iitram.ac.in**
 
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/s/t0tqp0chasyg2cf/Kamlesh.Kumar.pdf?dl=0)
+- 📄 Know about my experiences [Resume](https://www.dropbox.com/s/1hesn9dyon0iajx/Kamlesh-CV.pdf?dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
