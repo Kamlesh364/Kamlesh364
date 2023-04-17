@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Medical Image Segmentation, Natural Language Processing, Signal and Image Processing, Computer Vision, and Real-time Video analysis.**
 
-- 🌱 I’m working at [SkyLark Labs]([http://skylarklabs.ai/]) as a Machine Learning Engineer.
+- 🌱 I’m working at [SkyLark Labs](http://skylarklabs.ai/) as a Machine Learning Engineer.
 
 - 👯 I’m looking to collaborate on **Real-time Video and Signal Processing, Machine and Deep Learning, Data Science, Medical Image Processing, and Industrial Automation.**
 
