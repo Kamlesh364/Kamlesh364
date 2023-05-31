@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kamlesh364](https://github.com/kamlesh364)
 
-- 💬 Ask me about **Python, TensorFlow2, Keras, PyTorch, HTML/CSS/JS, AWS, Azure**
+- 💬 Ask me about **Python, TensorFlow2, Keras, PyTorch, HTML/CSS/JS, GCP, AWS, Azure**
 
-- 📫 Reach me at **kamlesh.kumar.19e@iitram.ac.in**
+- 📫 Reach me at **patelkamleshpatel364@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://www.dropbox.com/s/1hesn9dyon0iajx/Kamlesh-CV.pdf?dl=0)
 
