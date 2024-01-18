@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, TensorFlow2, Keras, PyTorch, HTML/CSS/JS, GCP, AWS, Azure**
 
-- 📫 Reach me at **patelkamleshpatel364@gmail.com**
+- 📫 Reach me at **kkamlesh.p47@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/173F61e--CjzpwF2F-jkueI8uCBwz4Vkv/view?usp=drive_link)
 
