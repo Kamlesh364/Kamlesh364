@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **patelkamleshpatel364@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/s/1hesn9dyon0iajx/Kamlesh-CV.pdf?dl=0)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/173F61e--CjzpwF2F-jkueI8uCBwz4Vkv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
