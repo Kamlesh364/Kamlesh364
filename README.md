@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamlesh</h1>
-<h3 align="center">A passionate AI enthusiast, inventor of two Indian patents and author of several research publications from India</h3>
+<h3 align="center">An AI enthusiast, inventor of two Indian patents and author of several research publications from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh364&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh364" /> </p>
 
