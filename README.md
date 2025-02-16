@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamlesh364" alt="kamlesh364" /></a> </p>
 
-- 🔭 I’m currently working on **Medical Image Segmentation, Natural Language Processing, Signal and Image Processing, Computer Vision, and Real-time Video analysis.**
+- 🔭 I’m currently working on **Large Language Models for Vision and NLP applications with GPU process optimization with CUDA, JAX, PyTree**.
 
 - 🌱 I’m currently a grad student at San Jose State University, specializing in Artificial Intelligence.
 
